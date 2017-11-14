@@ -2,4 +2,4 @@
 
 ### Basic Usage
 
-Demon only for this project.
+Demo only for this project.
